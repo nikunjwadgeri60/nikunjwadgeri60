@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikunj Wadgeri</h1>
 <h3 align="center">I'm currently pursuing my **Master’s in Computer Science** at **Stevens Institute of Technology**. I'm passionate about harnessing the power of **Data Science and Machine Learning** to transform raw data into insightful, impactful solutions. With a strong foundation in advanced **data analytics and machine learning** my interests lie in building intelligent, data-driven models that solve complex real-world problems.</h3>
-img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/URBvApYCw77V3ekN7"
+img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/URBvApYCw77V3ekN7](https://giphy.com/gifs/giphydiscovery-dogs-VzGQrj8sLH4GLcSiG1"
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikunjwadgeri60" alt="nikunjwadgeri60" /></a> </p>
 
