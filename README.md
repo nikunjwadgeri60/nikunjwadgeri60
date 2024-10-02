@@ -3,7 +3,7 @@
 </div>  
   
 
-#### <div align="center">Hi, I'm Nikunj Wadgeri. I’m currently pursuing my Master’s in Computer Science at Stevens Institute of Technology (Class of 2025), with a deep focus on Machine Learning and Data Analytics.</div>  
+#### <div align="center">Hello World! I’m currently pursuing my Master’s in Computer Science at Stevens Institute of Technology (Class of 2025), with a deep focus on Machine Learning and Data Analytics.</div>  
   
 
 - 🔭 I’m currently working on developing and deploying machine learning models, fine-tuning Large Language Models (LLMs), and exploring advanced data analytics solutions using Google BigQuery and AWS Redshift  
