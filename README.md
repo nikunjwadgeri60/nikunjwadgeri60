@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikunj Wadgeri</h1>
-<h3 align="center">I'm currently pursuing my **Master’s in Computer Science** at **Stevens Institute of Technology**. I'm passionate about harnessing the power of **Data Science and Machine Learning** to transform raw data into insightful, impactful solutions. With a strong foundation in advanced **data analytics and machine learning** my interests lie in building intelligent, data-driven models that solve complex real-world problems.</h3>
+<h3 align="center">I'm currently pursuing my Master’s in Computer Science at Stevens Institute of Technology. I'm passionate about harnessing the power of Data Science and Machine Learning to transform raw data into insightful, impactful solutions. With a strong foundation in advanced data analytics and machine learning my interests lie in building intelligent, data-driven models that solve complex real-world problems.</h3>
 
 
 
