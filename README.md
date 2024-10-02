@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -82,30 +82,6 @@
 </div>  
   
 
-<br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
