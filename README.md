@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a **Data Scientist** and **Machine Learning Enthusiast** currently pursuing my **Master’s in Computer Science** at **Stevens Institute of Technology**. My interests lie in exploring **machine learning**, **data science**, **big data analytics**, and **NLP** to build data-driven solutions.
+I'm currently pursuing my **Master’s in Computer Science** at **Stevens Institute of Technology**. I'm passionate about harnessing the power of **Data Science and Machine Learning** to transform raw data into insightful, impactful solutions. With a strong foundation in advanced **data analytics and machine learning** my interests lie in building intelligent, data-driven models that solve complex real-world problems.
 
 ---
 
